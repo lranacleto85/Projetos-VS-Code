@@ -59,5 +59,14 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "editor.language.brackets": ["terminal.integrated.shellArgs.windows", ["/K", "chcp 1252"]
  
-  ]
+  ],
+  "files.associations": {
+    "stdio.h": "c",
+    "windows.h": "c",
+    "EX3.C": "cpp"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
 }
