@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "abaixomedia",
+      "request": "launch",
+      "mainClass": "abaixomedia",
+      "projectName": "Projetos VS Code_9c55dbcc"
+    },
+    {
+      "type": "java",
+      "name": "abaixo_da_media",
+      "request": "launch",
+      "mainClass": "abaixo_da_media",
+      "projectName": "Projetos VS Code_9c55dbcc"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

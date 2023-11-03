@@ -55,5 +55,12 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "files.associations": {
+    "iostream": "cpp",
+    "TERRENO.C": "cpp",
+    "stdio.h": "c"
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true
 }

@@ -23,20 +23,20 @@ setlocale(LC_ALL, "Portuguese_Brazil");
         scanf("%s", nomeproduto);
         printf("\n Informe a quantidade comprada: ");
         scanf("%i", &quantidade);
-        printf("\n Informe o valor unitário do produto adquirido: R$ ");
+        printf("\n Informe o valor unitÃ¡rio do produto adquirido: R$ ");
         scanf("%i", &valorunitario);
 
         valortotal += quantidade * valorunitario;
 
-        printf("\n O valor total da compra até agora é de: R$ %.2f", valortotal);
+        printf("\n O valor total da compra atÃ© agora Ã© de: R$ %.2f", valortotal);
         printf("\n Deseja continuar comprando? (1 para continuar / 0 para finalizar): ");
         scanf("%i", &continua);
     }
 
-    // Cálculo de desconto
+    // Cï¿½lculo de desconto
     printf("\n\n");
     printf("Escolha a forma de pagamento:\n");
-    printf("1 - À vista com 10%% de desconto\n");
+    printf("1 - Ã  vista com 10%% de desconto\n");
     printf("2 - Parcelar\n");
     int opcao;
     scanf("%d", &opcao);
