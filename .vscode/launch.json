@@ -1,8 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
-    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -10,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/lrana/Projetos VS Code/C/Exercício 1",
-      "program": "c:/Users/lrana/Projetos VS Code/C/Exercício 1/build/Debug/outDebug",
+      "cwd": "d:/Vscode/Projetos VS Code",
+      "program": "d:/Vscode/Projetos VS Code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
